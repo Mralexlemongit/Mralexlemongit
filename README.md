@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mralexlemon&style=plastic&color=40c463">
   <br><br><br>
-<img width="380" src="https://readme-typing-svg.herokuapp.com?font=Corben&weight=500&size=60&duration=2500&pause=1000&color=F7F7F7&center=true&width=380&height=100&lines=Hello!+I+am;Python+and" alt="Hello! I am Alex Armadillo" />
-<img width="310"  src="https://readme-typing-svg.herokuapp.com?font=Corben&weight=500&size=60&duration=2500&pause=1000&color=F7F7F7&center=true&width=310&height=100&lines=Alejandro;Java+deve"/>
-<img width="310" src="https://readme-typing-svg.herokuapp.com?font=Corben&weight=500&size=60&duration=2500&pause=1000&color=F7F7F7&center=true&width=310&height=100&lines=Armadillo;loper.+%F0%9F%98%83" />
+<img width="360" src="https://readme-typing-svg.herokuapp.com?font=Corben&weight=500&size=60&duration=2500&pause=1000&color=F7F7F7&center=true&width=400&height=100&lines=Hello!+I+am;Python+and" alt="Hello! I am Alex Armadillo" />
+<img width="279"  src="https://readme-typing-svg.herokuapp.com?font=Corben&weight=500&size=60&duration=2500&pause=1000&color=F7F7F7&center=true&width=310&height=100&lines=Alejandro;Java+deve"/>
+<img width="279" src="https://readme-typing-svg.herokuapp.com?font=Corben&weight=500&size=60&duration=2500&pause=1000&color=F7F7F7&center=true&width=310&height=100&lines=Armadillo;loper.+%F0%9F%98%83" />
   <br><br>
 </p>
