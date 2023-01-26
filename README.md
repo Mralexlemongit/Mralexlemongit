@@ -11,7 +11,7 @@
 <h2 align="center">About Me!</h2>
 I am Alejandro Armadillo but call me Alex.
 
-Mexican developer Working from 2019. I'm a django focused python developer. My ninja way is to continue growing as a python developer, in the near future I will introduce myself to Java development and I aspire to be a Software Architect.
+Mexican developer Working from 2019. I'm a django focused python developer. My ninja way is to continue growing as a python developer, in the near future I will introduce myself to Java developer and I aspire to be a Software Architect.
 
 <!-- Social icons section -->
 <h2 align="center">Contact Me!</h2>
