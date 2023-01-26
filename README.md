@@ -48,3 +48,11 @@ Mexican developer Working from 2019. I'm a django focused python developer. My n
   <img src="https://skillicons.dev/icons?i=java"/>
 </p>
 
+<br>
+<div style="display: flex;justify-content: center;">
+
+  <img width="75%" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mralexlemongit&theme=github_dark"/>
+</div>
+
+<br>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mralexlemongit&theme=github_dark">
